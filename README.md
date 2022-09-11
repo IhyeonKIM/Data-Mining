@@ -25,6 +25,9 @@
 * 평가 지표: RMSE 
 * Collaborator: 고정욱, 예지혜([@jihye0115](https://github.com/jihye0115))
 
+## Final Project 2
+* 뉴스 기사 크롤링 데이터를 활용한 주가 등락 예측 
+
 ## Textbooks:
 * "The Elements of Statistical Learning: Data Mining, Inference and Prediction", 2nd edition by Hastie, Tibshirani and Friedman (Springer, 2009).
 * "An Introduction to Statistical Learning with Applications in R" by James, Witten, Hastie and Tishirani (Springer, 2013)
