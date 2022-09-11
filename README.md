@@ -1,4 +1,4 @@
-# Data-Mining
+# Data-Mining(22-1) 
 
 - 통계적 데이터 마이닝 과정에 대한 전반적인 내용을 다룸. 
 - 활용 모형: Bagging, neural Networks, Support Vector Machines, Clustering, Random Forests, Gradient boosting, XGBoost, Catboost, LightGBM.
