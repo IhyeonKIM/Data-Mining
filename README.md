@@ -23,7 +23,7 @@
 * 건물의 전력량 예측 프로젝트
 * 최종 모형: Catboost + RandomForest + XGBoost 앙상블 모형
 * 평가 지표: RMSE 
-* Collaborator: 고정욱, 예지혜(@jihye0115)
+* Collaborator: 고정욱, 예지혜([@jihye0115](https://github.com/jihye0115))
 
 ## Textbooks:
 * "The Elements of Statistical Learning: Data Mining, Inference and Prediction", 2nd edition by Hastie, Tibshirani and Friedman (Springer, 2009).
